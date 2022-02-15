@@ -28,7 +28,7 @@
 
 ### Linux
 
-- https://docs.oracle.com/cd/E37670_01/E41138/html/ch17s01s01.html
+- https://docs.oracle.com/cd/E37670_01/E41138/html/pref.html
 
 ### Readme.md
 
