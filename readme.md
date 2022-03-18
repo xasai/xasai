@@ -21,6 +21,7 @@
 ### Crypto
 
 - https://cryptohack.org/
+- https://cryptomarketpool.com
 
 ### Bug bounty
 
